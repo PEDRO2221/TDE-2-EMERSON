@@ -5,6 +5,10 @@
 	padding: 20px;
 }
 
+div{
+	background-color: rgb(182, 178, 178);
+}
+
 header {
 	display: flex;
 	margin: 0 auto;
@@ -49,10 +53,10 @@ h3 {
 a{
 	color: brown;
 }
-ul{
-	display: flex;
-    list-style: none;
-}
+
 li{
 	display: flex;
+}
+.navigation ul{
+	display: inline-block;
 }
