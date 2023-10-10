@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300&family=Nunito:wght@200&family=Pixelify+Sans&display=swap');
 
 body {
-    background-image: url(../img/back.webp);
+    background-image: url(/img/back.webp);
 }
 div{
     background-color: black;
